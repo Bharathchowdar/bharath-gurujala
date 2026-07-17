@@ -1,7 +1,6 @@
 # 💫 About Me:
 🚀 Aspiring AI Engineer | Passionate about GenAI, LLMs, RAG, AI Agents & Python | Building impactful AI solutions.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bharath-gurujala-40093b229](http://www.linkedin.com/in/bharath-gurujala-40093b229) 
 
